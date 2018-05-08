@@ -1,0 +1,63 @@
+
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.page-title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.white {
+  color: white !important;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.crimson {
+  color: crimson;
+}
+
+
+/*Navbar Styling*/
+
+#navbar-body {
+  background-color: forestgreen !important;
+}
+
+#navbarNav {
+	justify-content: flex-end !important;
+}
+
+.nav-link:hover {
+  background-color: darkgreen !important;
+}
+
+/*Page Styling*/
+
+.background {
+  background: url("serenes-dark.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.page {
+  margin-top: 50px;
+  overflow: auto;
+  padding: 40px;
+}
+
+.form {
+  height: auto;
+  width: 80vw;
+  background-color: rgba(255,255,255,0.9);
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  padding: 40px;
+  margin-top: 20px;
+}
