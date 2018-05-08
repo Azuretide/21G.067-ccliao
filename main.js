@@ -1,6 +1,5 @@
 function hideAll() {
 	for (let c of Util.all('.form')) {
-		console.log(c);
 		c.hidden = true;
 	}
 }
