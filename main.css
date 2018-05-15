@@ -7,6 +7,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .page-title {
@@ -44,7 +46,7 @@ img {
 /*Page Styling*/
 
 .background {
-  background: url("serenes-dark.jpg") no-repeat center center fixed;
+  background: url("photos/serenes-dark.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
